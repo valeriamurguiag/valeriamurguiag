@@ -1,4 +1,4 @@
-[![Portada-Git-Hub.png](https://i.postimg.cc/FFL3qQYZ/Portada-Git-Hub.png)](https://postimg.cc/qgpNhSXh)
+[![Portada-Git-Hub.png](https://i.postimg.cc/rsmbVF7K/Portada-Git-Hub.png)](https://postimg.cc/ftG55ZzN)
 
 <!--
 **valeriamurguiag/valeriamurguiag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
