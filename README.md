@@ -15,7 +15,7 @@ An executable library developed with Node.js that allows users to identify and v
 ## Contact
 - valeria.murguia.g@gmail.com 
 - https://www.linkedin.com/in/valeriamurguiag/
-- https://valeriamurguiag-portfolio.web.app/
+- https://valeriamurguia-portfolio.web.app/
 
 
 <!--
