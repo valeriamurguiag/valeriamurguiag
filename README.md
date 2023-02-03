@@ -5,7 +5,7 @@ I'm a Mexican Web Developer focused on Front-End Development. I've always been p
 
 ## Skills 
 - Languages: JavaScript (ES6), CSS, HTML.
-- Technologies: React, Node.js, Jest, Git, Github, NPM, Terminal.
+- Technologies: React, Node.js, Jest, Firebase, Git, Github, NPM, Terminal.
 - Tools: Figma, Canva, SketchUp, AutoCAD.
 - Agile Methodologies: SCRUM.
 
