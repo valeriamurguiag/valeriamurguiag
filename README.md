@@ -10,7 +10,7 @@ I'm a Mexican Web Developer focused on Front-End Development. I've always been p
 - Agile Methodologies: SCRUM.
 
 ##  Currently Working On:
-An executable library developed with Node.js that allows users to identify and validate links while reporting statistics of Markdown files. (Node.js, JavaScript, Unit Testing) 👾
+A CRUD and SPA application developed with React, through which a restaurant can take orders using a tablet and send them to the kitchen to be prepared orderly and efficiently, solving the same problem: how to keep the interface and status synchronized. (React, JavaScript, CSS, Unit Testing) 👾
 
 ## Contact
 - valeria.murguia.g@gmail.com 
