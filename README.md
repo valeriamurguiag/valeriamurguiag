@@ -12,7 +12,7 @@ When I returned to Mexico, I looked for an opportunity to continue developing as
 - Agile Methodologies: SCRUM
 
 ##  Currently Working On:
-A CRUD and SPA application developed with React, through which a restaurant can take orders using a tablet and send them to the kitchen to be prepared orderly and efficiently, solving the same problem: how to keep the interface and status synchronized. (React, JavaScript, CSS, Unit Testing) 👾
+Completing my NetSuite training 👾
 
 ## Contact
 - valeria.murguia.g@gmail.com 
