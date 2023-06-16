@@ -10,6 +10,7 @@ When I returned to Mexico, I looked for an opportunity to continue developing as
 - Technologies: React, Firebase, Node.js, Bootstrap, Tailwind CSS, Git, Github, NPM, Visual Studio Code
 - Tools: Figma, Canva, SketchUp, AutoCAD
 - Agile Methodologies: SCRUM
+- Business Softwares: NetSuite, Vendavo CPQ
 
 ##  Currently Working On:
 Completing my NetSuite training 👾
