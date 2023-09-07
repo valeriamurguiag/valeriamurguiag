@@ -9,7 +9,7 @@ When I returned to Mexico, I looked for an opportunity to continue developing as
 - Languages: JavaScript (ES6), CSS3, HTML5
 - Technologies: NetSuite, Vendavo CPQ, Firebase, Bootstrap, Tailwind CSS, Git, Github, NPM, Visual Studio Code, React, Node.js
 - Tools: Figma, Canva, SketchUp, AutoCAD
-- Agile Methodologies: SCRUM
+- Skills: API Design, Pair Programming, UX/UI, HTTP, Agile Methodologies, Unit Testing
 
 ##  Currently Working On:
 Completing my NetSuite training 👾
