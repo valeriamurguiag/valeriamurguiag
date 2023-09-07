@@ -1,4 +1,4 @@
-[![Portada-Git-Hub.png](https://i.postimg.cc/Gp1Qg8w0/Portada-Git-Hub.png)](https://postimg.cc/w10L7BjF)
+[![header.png](https://i.postimg.cc/PJnpSXsZ/header.png)](https://postimg.cc/DJ5wZKzy)
 
 ## About Me 
 I have always been passionate about the world of tech and creating new projects, that is the reason why on 2021 I decided to learn about coding on my own while working as an Au Pair in Washington DC, allowing me to develop my enthusiasm for working with people from different places and sharing my culture while training as a JavaScript Developer. 
@@ -7,10 +7,9 @@ When I returned to Mexico, I looked for an opportunity to continue developing as
 
 ## Skills 
 - Languages: JavaScript (ES6), CSS3, HTML5
-- Technologies: React, Firebase, Node.js, Bootstrap, Tailwind CSS, Git, Github, NPM, Visual Studio Code
+- Technologies: NetSuite, Vendavo CPQ, Firebase, Bootstrap, Tailwind CSS, Git, Github, NPM, Visual Studio Code, React, Node.js
 - Tools: Figma, Canva, SketchUp, AutoCAD
 - Agile Methodologies: SCRUM
-- Business Softwares: NetSuite, Vendavo CPQ
 
 ##  Currently Working On:
 Completing my NetSuite training 👾
